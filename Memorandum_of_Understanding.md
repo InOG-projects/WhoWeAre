@@ -47,7 +47,7 @@ Dies gibt die Wendigkeit und setzt Energie frei, aktiv präventiv Sozialmedizin 
 
 1. Innovation aus der Zivilgesellschaft ist ein starkes Signal und für uns ein Kernwert, der sich in allen Bereichen unserer Arbeit widerspiegelt und sich auch in unserer gemeinnützigen Rechtsform zeigt.
 *Gemeingut ist unser Leitgedanke.*
-2. Zur Entstehung unserer Technologien setzen wir uns inhaltlich mit dem ÖDG und seinem Umfeld auseinander, arbeiten themenrelevant und nutzerzentriert.
+2. Zur Entstehung unserer Technologien setzen wir uns inhaltlich mit dem ÖGD und seinem Umfeld auseinander, arbeiten themenrelevant und nutzerzentriert.
 3. InÖG Projekte folgen dem Leitmotiv von gemeinschaftlicher Innovation und entstehen in einem iterativen Open Development Prozess.
 4. Alle Projekte, sowie die entwickelte Software im Innovationsverbund als Ergebnis unserer gemeinsamen Arbeit, sind  Open Source.
 5. InÖG Projekte legen  besonderes Augenmerk auf dezentrale Strukturen, Datenschutz und IT-Sicherheit und sind sich der Verantwortung bewusst die der Gesundheitsbereich mit sich bringt.
