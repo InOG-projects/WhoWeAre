@@ -9,3 +9,6 @@ In the future there may be further organisational declarations, explanation and 
 
 ## Something should be changed?
 For change requests of documents please create a pull request and add a short rationale for this change if appropriate or submit an issue, so there is a proper place for discussion. For typos etc. this is not necessary.
+
+## Want to become a part of InÖG?
+Great! Please send an email to info@inoeg.de
