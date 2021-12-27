@@ -1,9 +1,9 @@
 # WhoWeAre
-Documents about Innovationsverbund Öffentliche Gesundheit (InÖG) (loosely translated: Public healt innovation network).
+Documents about Innovationsverbund Öffentliche Gesundheit (InÖG) (loosely translated: Public health innovation network).
 
 ## What one can find in here
 
-Here we put documents about and projects the Innovationsverbund Öffentliche Gesundheit (InÖG).
+Here we put documents about the Innovationsverbund Öffentliche Gesundheit (InÖG) and share our projects. Mature projects are to be found in their own organisations.
 
 Our first and most mature project is [https://iris-connect.de](IRIS connect) ([https://github.com/iris-connect/](GitHub)), the e2e-encrypted data interface in and between public health agencies.
 The first use case of this base architecture is transfer of contact tracing data, more is planned and specified at the moment. If you're looking for a place to contribute, this would be a good project to start with.
