@@ -5,8 +5,8 @@ Documents about Innovationsverbund Öffentliche Gesundheit (InÖG) (loosely tran
 
 Here we put documents about the Innovationsverbund Öffentliche Gesundheit (InÖG) and share our projects. Mature projects are to be found in their own organisations.
 
-Our first and most mature project is [https://iris-connect.de](IRIS connect) ([https://github.com/iris-connect/](GitHub)), the e2e-encrypted data interface in and between public health agencies.
-The first use case of this base architecture is transfer of contact tracing data, more is planned and specified at the moment.
+Our first and most mature project is [IRIS connect](https://iris-connect.de) ([GitHub](https://github.com/iris-connect/)), the e2e-encrypted data interface in and between public health agencies.
+The first use case of this base architecture is transfer of contact tracing data, more is planned and currently being specified.
 IRIS connect is currently operational in the German states of Hesse, North Rhine-Westphalia, Saxony, Thuringia; more to come.
 If you're looking for a place to contribute, this would be a good project to start with.
 
