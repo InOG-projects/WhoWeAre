@@ -1,5 +1,5 @@
 # WhoWeAre
-Documents about Innovationsverbund Öffentliche Gesundheit (InÖG) (loosely translated: Public health innovation network).
+Documents about [Innovationsverbund Öffentliche Gesundheit (InÖG)](https://inoeg.de) (loosely translated: Public Health Innovation Network).
 
 ## What one can find in here
 
